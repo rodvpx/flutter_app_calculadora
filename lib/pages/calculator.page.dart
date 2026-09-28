@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_app_calculadora/widgets/button.widget.dart';
 
 class CalculatorPage extends StatefulWidget {
-  const new({super.key});
+  const CalculatorPage({super.key});
 
   @override
   State<CalculatorPage> createState() => _CalculatorPageState();
